@@ -1,0 +1,12 @@
+{
+  "name": "Star Rainstorm (Space asteroids)",
+  "short_name": "Star Rainstorm (Space asteroids)",
+  "id": "com.GDevelop.Asteroids",
+  "description": "About\n🚀 Defend the galaxy in \"Infinite Galactic Shooter\"! Blast through space, battle aliens, and upgrade your ship's arsenal. Compete for high scores and experience classic arcade action. Get ready to save the universe! 🎮🌌 #InfiniteGalacticShooter #ArcadeGaming\n\n🎮 Features:\nEngaging classic arcade gameplay with modern twists. Customize and upgrade your rocket ship's weaponry and abilities. Battle a variety of challenging alien enemies with unique attack patterns. Collect power-ups for temporary firepower boosts and defense enhancements. Navigate through an infinite space environment where the challenge keeps growing.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
