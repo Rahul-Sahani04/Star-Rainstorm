@@ -38,6 +38,9 @@
 ![Gameplay Screenshot](/ScreenShots/Tutorial.png)
 ![Gameplay Screenshot](/ScreenShots/Gameplay.png)
 
+## Demo Video
+
+[![Star RainStorm: The Game Demo](ScreenShots/IntroVideo.jpeg)](ScreenShots/DemoVideo.mp4)
 
 ## Built With
 
