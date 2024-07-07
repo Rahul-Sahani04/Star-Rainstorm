@@ -17,7 +17,7 @@ gdjs.StartUpUICode.GDBestWaveTextObjects2= [];
 
 
 gdjs.StartUpUICode.mapOfGDgdjs_9546StartUpUICode_9546GDNewTextObjects1Objects = Hashtable.newFrom({"NewText": gdjs.StartUpUICode.GDNewTextObjects1});
-gdjs.StartUpUICode.asyncCallback15055220 = function (runtimeScene, asyncObjectsList) {
+gdjs.StartUpUICode.asyncCallback15091148 = function (runtimeScene, asyncObjectsList) {
 asyncObjectsList.restoreLocalVariablesContainers(gdjs.StartUpUICode.localVariables);
 gdjs.copyArray(asyncObjectsList.getObjects("NewText"), gdjs.StartUpUICode.GDNewTextObjects2);
 
@@ -36,7 +36,7 @@ gdjs.StartUpUICode.eventsList0 = function(runtimeScene) {
 const asyncObjectsList = new gdjs.LongLivedObjectsList();
 asyncObjectsList.backupLocalVariablesContainers(gdjs.StartUpUICode.localVariables);
 for (const obj of gdjs.StartUpUICode.GDNewTextObjects1) asyncObjectsList.addObject("NewText", obj);
-runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(2), (runtimeScene) => (gdjs.StartUpUICode.asyncCallback15055220(runtimeScene, asyncObjectsList)));
+runtimeScene.getAsyncTasksManager().addTask(gdjs.evtTools.runtimeScene.wait(2), (runtimeScene) => (gdjs.StartUpUICode.asyncCallback15091148(runtimeScene, asyncObjectsList)));
 }
 }
 
