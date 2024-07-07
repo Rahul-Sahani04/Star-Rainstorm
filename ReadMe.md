@@ -41,10 +41,10 @@
 ## Demo Video
 
 <!-- [![Star RainStorm: The Game Demo](ScreenShots/IntroVideo.jpeg)](ScreenShots/DemoVideo.mp4) -->
-<video width="320" height="240" controls>
-  <source src="ScreenShots/DemoVideo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+
+https://github.com/Rahul-Sahani04/Star-Rainstorm/assets/110347707/0f4c3e02-aef1-4b89-8cbe-fb40854d4bab
+
+
 
 ## Built With
 
